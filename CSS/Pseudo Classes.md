@@ -1,0 +1,5 @@
+[MDN Resource](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+
+A CSS pseudo-class is a keyword added to a selector that specifies a specific state of the selected element or elements.
+
+Pseudo-classes let you apply a style to an element not only in relation to the content of the document, but also in relation to external factors like the history of the navigator. For example, `:visited` can apply styles to links that are already in the browser history and therefore have been visited. Pseudo-classes can also target the status of the document content. For example, `:checked` on a checkbox, or the position of the mouse with `:hover`. `:focus` represents an element that has received focus. It is generally triggered when the user clicks or taps on an element or selects it with the keyboard's Tab key. It helps highlight the current element that has been clicked.
